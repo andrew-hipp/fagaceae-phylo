@@ -6,6 +6,8 @@ source('https://raw.githubusercontent.com/andrew-hipp/morton/master/R/simplePhyl
 
 # set variables:
 now <- format(Sys.time(), "%y%m%d_%Hh%M")
+# data to export from dat
+datCols <- c('Species','trName', 'position', 'justification', 'reference', 'notes')
 
 # get data
 tr.gardner <- read.tree('../DATA/supertimetree.hyboakconstrained.climateTips.tre')
@@ -17,15 +19,15 @@ tr.graham <- simplePhylo(
   tips = dat$trName,
   tr = tr.gardner,
   nodes = dat.nodes
-)
+) %>% ladderize
 
 # write results
 write.tree(tr.graham, paste('../OUT/tr.graham_', now, '.tre', sep = ''))
 
 pdf(paste('../OUT/tr.graham_', now, '.pdf', sep = ''), 8.5, 11)
-plot(tr.graham, cex = 0.6)
+plot(tr.graham, cex = 0.4)
 dev.off()
 
-write.csv(dat[which(!dat$trName %in% tr.graham$tip.label),
-              c('Species','trName', 'position', 'justification', 'reference', 'notes')],
+dat.out <- dat[which(!dat$trName %in% tr.graham$tip.label), datCols]
+write.csv(dat.out,
           paste('../OUT/tr.graham.missingTips_', now, '.csv', sep = ''))
