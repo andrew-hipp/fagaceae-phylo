@@ -4,6 +4,9 @@ library(magrittr)
 library(openxlsx)
 source('https://raw.githubusercontent.com/andrew-hipp/morton/master/R/simplePhylo.R')
 
+# set working directory
+setwd('v1/galls_2022/WORKING/')
+
 # set variables:
 now <- format(Sys.time(), "%y%m%d_%Hh%M")
 # data to export from dat
@@ -19,7 +22,7 @@ tr.graham <- simplePhylo(
   tips = dat$trName,
   tr = tr.gardner,
   nodes = dat.nodes
-) %>% ladderize
+)
 
 # write results
 write.tree(tr.graham, paste('../OUT/tr.graham_', now, '.tre', sep = ''))
