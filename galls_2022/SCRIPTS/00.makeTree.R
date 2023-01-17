@@ -5,7 +5,7 @@ library(openxlsx)
 source('https://raw.githubusercontent.com/andrew-hipp/morton/master/R/simplePhylo.R')
 
 # set working directory
-setwd('galls_2022/WORKING/')
+if(!grep('galls_2022/WORKING', getwd()) == 1) setwd('galls_2022/WORKING/')
 
 # set variables:
 now <- format(Sys.time(), "%y%m%d_%Hh%M")
