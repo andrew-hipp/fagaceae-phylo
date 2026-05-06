@@ -1,0 +1,121 @@
+sample_ID,tip_label,species,dataset,genes,GenBank,herbarium,collection,locality_clean,locality_full,date,long,lat,elevation,note
+Castanea_henryi,Castanea_henryi,Castaneahenryi,HybSeq,461,,,,,,,NA,NA,NA,
+Castanea_mollissima_MOR_634-341,Castanea_mollissima,Castanea mollissima,HybSeq,453,,MOR,MOR 634-34*1,China,"China, near Tiensin",,NA,NA,NA,
+Castanea_pumila,Castanea_pumila,Castanea pumila,HybSeq,435,,,,,,,NA,NA,NA,
+Castanea_seguinii,Castanea_seguinii,Castanea seguinii,HybSeq,463,,,,,,,NA,NA,NA,
+Lithocarpus_acuminata_GimansyahDeden970,Castanopsis_acuminatissima,Castanopsis acuminatissima,HybSeq,452,,,,,,,NA,NA,NA,
+Castanopsis_EG737,Castanopsis_argentea,Castanopsis argentea,HybSeq,455,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Castanopsis_EG769,Castanopsis_borneensis,Castanopsis borneensis,HybSeq,455,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_cerebrinus_DDS10232,Castanopsis_calathiformis,Castanopsis calathiformis,HybSeq,448,,,,,,,NA,NA,NA,
+Lithocarpus_krempfii_DDS14633,Castanopsis_cf_lanceifolia,Castanopsis cf. lanceifolia,HybSeq,456,,,,,,,NA,NA,NA,
+Castanopsis_choboensis_NTH4229,Castanopsis_choboensis,Castanopsis choboensis,HybSeq,452,,,,,,,NA,NA,NA,
+Castanopsis_crassifolia_Poilane751,Castanopsis_crassifolia,Castanopsis crassifolia,HybSeq,447,,,,,,,NA,NA,NA,
+Castanopsis_echindnocarpa_Poilane22807,Castanopsis_echinocarpa,Castanopsis echinocarpa,HybSeq,170,,,,,,,NA,NA,NA,
+Castanopsis_EG772a,Castanopsis_endertii,Castanopsis endertii,HybSeq,452,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_evansii_Cannon79,Castanopsis_evansii,Castanopsis evansii,HybSeq,454,,,C.H. Cannon 79,Borneo,"Sibu-Bintulu road, Sg. Aping bridge, over river, along roadside. Sarawak, Malaysia.",8/22/1997,112.4,2.38,NA,
+Castanopsis_fargesii_SAGE1216,Castanopsis_fargesii,Castanopsis fargesii,HybSeq,454,,,,,,,NA,NA,NA,
+Castanopsis_fissa_Chun1928,Castanopsis_fissa,Castanopsis fissa,HybSeq,210,,,,,,,NA,NA,NA,
+Castanopsis_fulva_Cannon138,Castanopsis_fulva,Castanopsis fulva,HybSeq,453,,,,,,,NA,NA,NA,
+Castanopsis_hainensis_How70095,Castanopsis_hainanensis,Castanopsis hainanensis,HybSeq,428,,,,,,,NA,NA,NA,
+Castanopsis_hypophoenicea_EG727,Castanopsis_hypophoenicea,Castanopsis hypophoenicea,HybSeq,450,,,,,,,NA,NA,NA,
+Castanopsis_indica_MVX_1002,Castanopsis_indica,Castanopsis indica,HybSeq,454,,,,,,,NA,NA,NA,
+Castanopsis_inermis_EG716,Castanopsis_inermis,Castanopsis inermis,HybSeq,456,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Castanopsis_javanica_EG729,Castanopsis_javanica,Castanopsis javanica,HybSeq,449,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Castanopsis_kawakamii_MUX1012,Castanopsis_kawakamii,Castanopsis kawakamii,HybSeq,444,,,,,,,NA,NA,NA,
+Castanopsis_longipetiolata_DDS10762,Castanopsis_longipetiolata,Castanopsis longipetiolata,HybSeq,451,,,,,,,NA,NA,NA,
+Castanopsis_fulva_Sidigasadal2967,Castanopsis_motleyana,Castanopsis motleyana,HybSeq,442,,,,,,,NA,NA,NA,
+Castanopsis_nephelioides_EG718,Castanopsis_nephelioides,Castanopsis nephelioides,HybSeq,448,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Castanopsis_paucispina_AshtonS17190,Castanopsis_paucispina,Castanopsis paucispina,HybSeq,176,,,,,,,NA,NA,NA,
+Castanopsis_glabra_Wenzel737,Castanopsis_philipensis,Castanopsis philipensis,HybSeq,435,,,,,,,NA,NA,NA,
+Lithocarpus_nhatrangensis_DDS14862,Castanopsis_piriformis,Castanopsis piriformis,HybSeq,456,,,,,,,NA,NA,NA,
+Castanopsis_EG733,Castanopsis_psilophylla,Castanopsis psilophylla,HybSeq,453,,,,,,,NA,NA,NA,
+Castanopsis_schefferiana_EG715,Castanopsis_schefferiana,Castanopsis schefferiana,HybSeq,454,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Castanopsis_sieboldii_Nagamasu1586,Castanopsis_sieboldii,Castanopsis sieboldii,HybSeq,454,,,,,,,NA,NA,NA,
+Castanopsis_tribuloides_Cannon464,Castanopsis_tribuloides,Castanopsis tribuloides,HybSeq,453,,,"C.H. Cannon, U Kyaw Win Maung, U Soe Win 464",Myanmar,"1/2 km S of Pyin Oo Lwin Botanical Gardens on road to Nyuang-ni village, at intersection. Mandalay, Myanmar.",11/21/1997,NA,NA,1100,
+Castanopsis_wallichii_SKG156,Castanopsis_wallichii,Castanopsis wallichii,HybSeq,456,,,,,,,NA,NA,NA,
+Chrysolepis_chrysophylla,Chrysolepis_chrysophylla,Chrysolepis chrysophylla,HybSeq,459,,,,,,,NA,NA,NA,
+Fagus_crenata,Fagus_crenata,Fagus crenata,HybSeq,327,,,,,,,NA,NA,NA,
+Fagus_grandifolia,Fagus_grandifolia,Fagus grandifolia,HybSeq,326,,,,,,,NA,NA,NA,
+Fagus_sylvatica_MOR_768-271,Fagus_sylvatica,Fagus sylvatica,HybSeq,336,,MOR,,,,,NA,NA,NA,
+Lithocarpus_areca_MVX_1085,Lithocarpus_areca,Lithocarpus areca,HybSeq,455,,,,,,,NA,NA,NA,
+Lithocarpus_bacgiangensis_MVX1003,Lithocarpus_bacgiangensis,Lithocarpus bacgiangensis,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_bancanus_Amir294,Lithocarpus_bancanus,Lithocarpus bancanus,HybSeq,457,,,,,,,NA,NA,NA,
+Lithocarpus_beccarianus_Cannon827,Lithocarpus_beccarianus,Lithocarpus beccarianus,HybSeq,456,,,C.H. Cannon 827,Borneo,"Mt. Trusmadi, along logging road, in selectively logged forest, 50 meters below trailhead to northern summit trail. Sabah, Malaysia.",7/8/1998,NA,NA,1700,
+Lithocarpus_blumeanus_IE22,Lithocarpus_blumeanus,Lithocarpus blumeanus,HybSeq,457,,,,,,,NA,NA,NA,
+Lithocarpus_brassii_Takeuchi6980,Lithocarpus_brassii,Lithocarpus brassii,HybSeq,453,,,,,,,NA,NA,NA,
+Lithocarpus_bullatus_EG758,Lithocarpus_bullatus,Lithocarpus bullatus,HybSeq,453,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_cantleyanus_EG713,Lithocarpus_cantleyanus,Lithocarpus cantleyanus,HybSeq,444,,SING,,,,,NA,NA,NA,
+Lithocarpus_celebicus_Brambach162,Lithocarpus_celebicus,Lithocarpus celebicus,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_EG759,Lithocarpus_clementianus,Lithocarpus clementianus,HybSeq,455,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_lampadarius_EG765a,Lithocarpus_confragosus,Lithocarpus confragosus,HybSeq,454,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG730,Lithocarpus_conocarpus_EG730,Lithocarpus conocarpus,HybSeq,456,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG728,Lithocarpus_coopertus,Lithocarpus coopertus,HybSeq,454,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_cyclophorus_EG703,Lithocarpus_cyclophorus,Lithocarpus cyclophorus,HybSeq,455,,MOR,,,,,NA,NA,NA,
+Lithocarpus_dealbatus_Cannon459,Lithocarpus_dealbatus,Lithocarpus dealbatus,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_echinifer_Cannon628,Lithocarpus_echinifer,Lithocarpus echinifer,HybSeq,433,,,,,,,NA,NA,NA,
+Lithocarpus_elegans_EG734,Lithocarpus_elegans,Lithocarpus elegans,HybSeq,454,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG757,Lithocarpus_encleisacarpus_EG757,Lithocarpus encleisacarpus,HybSeq,451,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG742,Lithocarpus_ewyckii_EG742,Lithocarpus ewyckii,HybSeq,457,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_fohaiensis_HITBC137346,Lithocarpus_fohaiensis,Lithocarpus fohaiensis,HybSeq,455,,,,,,,NA,NA,NA,
+Lithocarpus_glaber_Yao11532,Lithocarpus_glaber,Lithocarpus glaber,HybSeq,456,,,,,,,NA,NA,NA,
+Lithocarpus_glutinosus_Brambach170,Lithocarpus_glutinosus,Lithocarpus glutinosus,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_cf_gracilis_EG78,Lithocarpus_gracilis,Lithocarpus gracilis,HybSeq,453,,"SAN, MOR",,,,,NA,NA,NA,
+Lithocarpus_havilandii_EG750,Lithocarpus_havilandii,Lithocarpus havilandii,HybSeq,452,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_hendersoniana_EG723,Lithocarpus_hendersonianus,Lithocarpus hendersonianus,HybSeq,452,,SING,,,,,NA,NA,NA,
+Castanopsis_chevalieri_DDS13980,Lithocarpus_honbaensis_DDS13980,Lithocarpus honbaensis,HybSeq,455,,,,,,,NA,NA,NA,
+Lithocarpus_cf_indutus_Brambach1500,Lithocarpus_indutus,Lithocarpus indutus,HybSeq,443,,,,,,,NA,NA,NA,
+Lithocarpus_cf_inwinii_NMCuong205,Lithocarpus_irwinii,Lithocarpus irwinii,HybSeq,455,,,,,,,NA,NA,NA,
+Lithocarpus_jordanae_Burley5,Lithocarpus_jordanae,Lithocarpus jordanae,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_sp_nov_3_Cannon751,Lithocarpus_keningauensis,Lithocarpus keningauensis,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_horthalsii_EG698,Lithocarpus_korthalsii,Lithocarpus korthalsii,HybSeq,451,,MOR,,,,,NA,NA,NA,
+Lithocarpus_kunstleri_Church343,Lithocarpus_kunstleri,Lithocarpus kunstleri,HybSeq,47,,,,,,,NA,NA,NA,
+Lithocarpus_laouanensis_DDS13086,Lithocarpus_laouanensis,Lithocarpus l aouanensis,HybSeq,455,,,,,,,NA,NA,NA,
+Lithocarpus_lauterbachii_Milliken1400,Lithocarpus_lauterbachii,Lithocarpus lauterbachii,HybSeq,45,,,,,,,NA,NA,NA,
+Lithocarpus_cf_sundaicus_EG743,Lithocarpus_leptogyne,Lithocarpus leptogyne,HybSeq,456,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_nodosus_EG783,Lithocarpus_lucidus,Lithocarpus lucidus,HybSeq,455,,"SAN, MOR",,,,,NA,NA,NA,
+Lithocarpus_magneinii_DDS11254,Lithocarpus_magneinii,Lithocarpus magneinii,HybSeq,455,,,,,,,NA,NA,NA,
+Lithocarpus_nieuwenhuisii_Cannon709_reamp,Lithocarpus_nieuwenhuisii,Lithocarpus nieuwenhuisii,HybSeq,457,,,,,,,NA,NA,NA,
+Lithocarpus_EG749,Lithocarpus_nodosus,Lithocarpus nodosus,HybSeq,455,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG761,Lithocarpus_papillifer,Lithocarpus papillifer,HybSeq,452,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_philippinensis_DDS7956,Lithocarpus_philippinensis,Lithocarpus philippinensis,HybSeq,430,,,,,,,NA,NA,NA,
+Lithocarpus_porcatus_Cannon520,Lithocarpus_porcatus,Lithocarpus porcatus,HybSeq,453,,,,,,,NA,NA,NA,
+Lithocarpus_pseudoreinwardtii_NMCuong307,Lithocarpus_pseudoreinwardtii,Lithocarpus pseudoreinwardtii,HybSeq,450,,,,,,,NA,NA,NA,
+Lithocarpus_pulcher_Cannon701,Lithocarpus_pulcher,Lithocarpus pulcher,HybSeq,451,,,,,,,NA,NA,NA,
+Lithocarpus_reinwardtii_Joac256,Lithocarpus_reinwardtii,Lithocarpus reinwardtii,HybSeq,457,,,,,,,NA,NA,NA,
+Lithocarpus_revolutus_Cannon794,Lithocarpus_revolutus,Lithocarpus revolutus,HybSeq,323,,,,,,,NA,NA,NA,
+Lithocarpus_EG794,Lithocarpus_rotundatus,Lithocarpus_rotundatus,HybSeq,456,,"SAN, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG740,Lithocarpus_ruminatus,Lithocarpus ruminatus,HybSeq,455,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_EG767,Lithocarpus_sericobalanos_EG767,Lithocarpus sericobalanos,HybSeq,456,,"SAN, SNP, MOR",,,,,NA,NA,NA,
+Lithocarpus_songensis_Robbins505,Lithocarpus_songkoensis,Lithocarpus songkoensis,HybSeq,83,,,,,,,NA,NA,NA,
+Lithocarpus_sundaicus_ML070,Lithocarpus_sundaicus,Lithocarpus sundaicus,HybSeq,431,,,,,,,NA,NA,NA,
+Lithocarpus_tomorangensis_DDS13501,Lithocarpus_toumorangensis,Lithocarpus toumorangensis,HybSeq,454,,,,,,,NA,NA,NA,
+Lithocarpus_turbinatus_Cannon800,Lithocarpus_turbinatus,Lithocarpus turbinatus,HybSeq,453,,,,,,,NA,NA,NA,
+Lithocarpus_wallichianus_Burley262,Lithocarpus_wallichianus,Lithocarpus wallichianus,HybSeq,91,,,,,,,NA,NA,NA,
+Lithocarpus_woodii_JSBurley1,Lithocarpus_woodii,Lithocarpus woodii,HybSeq,451,,,,,,,NA,NA,NA,
+Nothofagus_pumilio,Nothofagus_pumilio,Nothofagus pumilio,HybSeq,283,,,,,,,NA,NA,NA,
+Notholithocarpus_densiflorus,Notholithocarpus_densiflorus,Notholithocarpus densiflorus,HybSeq,459,,,,,,,NA,NA,NA,
+Trigonobalanus_verticillata_EG778,Trigonobalanus_verticillata,Trigonobalanus_verticillata,HybSeq,453,,,,,,,NA,NA,NA,
+SRR16661009,Fagus_lucida,Fagus lucida,Zhou_reseq,465,SRR16661009,,YS20190724-4,China,"Longcanggou, Sichuan, China",,NA,NA,NA,reseq depth 35.8126
+SRR16661003,Trigonobalanus_doichangensis ,Trigonobalanus doichangensis ,Zhou_reseq,465,SRR16661003,,GJ-GYJ201901,China,"Kunming, Yunnan, China",,NA,NA,NA,reseq depth 26.7129
+SRR16661116,Trigonobalanus_excelsa,Trigonobalanus excelsa,Zhou_reseq,465,SRR16661116,DUKE,Manos s.n.,Colombia,"Cali, Colombia",,NA,NA,NA,reseq depth 23.5601
+SRR16661078,Castanea_dentata ,Castanea dentata ,Zhou_reseq,465,SRR16661078,DUKE,Manos s.n.,USA,"Highlands, Macon, NC",,NA,NA,NA,reseq depth 28.7774
+SRR16661068,Castanopsis_hystrix,Castanopsis hystrix,Zhou_reseq,465,SRR16661068,,HongZhou-JFL2019-01,China,"Jianfengling, Hainan, China",,NA,NA,NA,reseq depth 38.892
+SRR16661035,Castanopsis_lamontii,Castanopsis lamontii,Zhou_reseq,465,SRR16661035,,HongZhou-JFL2019-02,China,"Jianfengling, Hainan, China",,NA,NA,NA,reseq depth 29.5699
+SRR16661050,Castanopsis_eyrei,Castanopsis eyrei,Zhou_reseq,465,SRR16661050,,YS20180712-2,China,"Changsha, Hunan, China",,NA,NA,NA,reseq depth 32.5577
+SRR16661045,Castanopsis_carlesii,Castanopsis carlesii,Zhou_reseq,465,SRR16661045,,YS20180710-3,China,"Ningbo, Zhejiang, China",,NA,NA,NA,reseq depth 34.2973
+SRR16661042,Castanopsis_sclerophylla,Castanopsis sclerophylla,Zhou_reseq,465,SRR16661042,,YS20180723-4,China,"Jiujiang, Jiangxi, China",,NA,NA,NA,reseq depth 39.5501
+SRR16661039,Castanopsis_jucunda,Castanopsis jucunda,Zhou_reseq,465,SRR16661039,,YS20180804-7,China,"Hengyang, Hunan, China",,NA,NA,NA,reseq depth 31.4429
+SRR16661018,Castanopsis_nigrescens,Castanopsis nigrescens,Zhou_reseq,465,SRR16661018,,YS20181201-5,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 35.2002
+SRR16661017,Castanopsis_fabri,Castanopsis fabri,Zhou_reseq,465,SRR16661017,,YS20181201-7,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 35.3314
+SRR16661101,Castanopsis_orthacantha,Castanopsis orthacantha,Zhou_reseq,465,SRR16661101,,YNZY5-1,China,"Zhanyi, Yunnan, China",,NA,NA,NA,reseq depth 33.1129
+SRR16661073,Chrysolepis_sempervirens,Chrysolepis sempervirens,Zhou_reseq,465,SRR16661073,DUKE,Burge 592,USA,"Black Mountain, San Bernardino, California",,NA,NA,NA,reseq depth 39.6865
+SRR16661024,Lithocarpus_corneus ,Lithocarpus corneus ,Zhou_reseq,465,SRR16661024,,HongZhou-JFL2019-03,China,"Jianfengling, Hainan, China",,NA,NA,NA,reseq depth 44.241
+SRR16661028,Lithocarpus_uvariifolius ,Lithocarpus uvariifolius ,Zhou_reseq,465,SRR16661028,,YS20190804-12,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 34.6783
+SRR16661026,Lithocarpus_calophyllus ,Lithocarpus calophyllus ,Zhou_reseq,465,SRR16661026,,YS20181201-11,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 32.8187
+SRR16661025,Lithocarpus_longanoides,Lithocarpus longanoides,Zhou_reseq,465,SRR16661025,,YS20181201-12,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 35.0959
+SRR16661023,Lithocarpus_haipinii,Lithocarpus haipinii,Zhou_reseq,465,SRR16661023,,YS20181201-13,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 35.3768
+SRR16661022,Lithocarpus_hancei ,Lithocarpus hancei ,Zhou_reseq,465,SRR16661022,,YS20181201-14,China,"Huizhou, Guangdong, China",,NA,NA,NA,reseq depth 31.7208
+SRR16661012,Lithocarpus_amygdalifolius,Lithocarpus amygdalifolius,Zhou_reseq,465,SRR16661012,,YS20181207-4,China,"Wanshan, Guangdong, China",,NA,NA,NA,reseq depth 30.0166
+SRR16661105,Lithocarpus_truncatus,Lithocarpus truncatus,Zhou_reseq,465,SRR16661105,,YNWY04,China,"Wayao, Yunnan, China",,NA,NA,NA,reseq depth 33.9878
+SRR16661013,Lithocarpus_longipedicellatus,Lithocarpus longipedicellatus,Zhou_reseq,465,SRR16661013,,HongZhou-JFL2019-04,China,"Jianfengling, Hainan, China",,NA,NA,NA,reseq depth 38.1144
+SRR16661046,Lithocarpus_tephrocarpus,Lithocarpus tephrocarpus,Zhou_reseq,465,SRR16661046,,HongZhou-JFL2019-05,China,"Jianfengling, Hainan, China",,NA,NA,NA,reseq depth 35.2129
