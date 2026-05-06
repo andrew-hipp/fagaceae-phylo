@@ -23,7 +23,7 @@ The script auto-detects and sets the working directory to `galls_2022/WORKING/`.
 ```r
 source('galls_2026/SCRIPTS/00.makeTree.R')
 ```
-The script checks that the working directory ends with `fagaceae-phylo` and stops with an error otherwise. Note: as of May 2026, the script reads the new tree (`galls_2026/DATA/fagaceae_graft_noconf_apr30_prune.tre`) but still references the old host-oak spreadsheet path (`../DATA/Global Cynipini...`) and old output paths (`../OUT/`) that need updating.
+The script checks that the working directory ends with `fagaceae-phylo` and stops with an error otherwise. Note: `galls_2026/OUT/` must exist before running — R will not create it automatically.
 
 Both scripts source `simplePhylo()` at runtime from the external [andrew-hipp/morton](https://github.com/andrew-hipp/morton) GitHub repo via URL.
 
