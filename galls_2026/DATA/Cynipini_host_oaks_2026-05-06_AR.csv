@@ -11,7 +11,7 @@ Castanopsis_fargesii,Castanopsis_fargesii,x,,,,NA,,,,Castanopsis,Eastern Palearc
 Castanopsis_platyacantha,Castanopsis_platyacantha,,Castanopsis_platyacantha,*** UNKNOWN;  morphology is close to Castanopsis fargesii,Castanopsis_fargesii,2,,,,Castanopsis,Eastern Palearctic and Oriental,,,n,delete
 Castanopsis_uriana,Castanopsis_uraiana,,Castanopsis_uraiana,Castanopsis fissa group,Castanopsis_fissa|Castanopsis_calathiformis,2,This recent Castanopsis paper (https://www.sciencedirect.com/science/article/pii/S1055790325001617?via=ihub#b0205) didn't sample it but mentions it as belonging to the C. fissa group. ,,,Castanopsis,Eastern Palearctic and Oriental,,,y,retain
 Chrysolepis_chrysophylla var. minor,Chrysolepis_chrysophylla_var_minor,,Chrysolepis_chrysophylla_var_minor,sister to C. chrysophylla v. chrysophylla,Chrysolepis_chrysophylla,2,,,,Chrysolepis,Nearctic,,,n,delete - gall associations aggregated to species
-Chrysolepis_sempervirens,Chrysolepis_sempervirens,,Chrysolepis_sempervirens,sister to C. chrysophylla s.l.,Chrysolepis_chrysophylla|Chrysolepis_chrysophylla_var_minor,2,,,,Chrysolepis,Nearctic,,,y,retain
+Chrysolepis_sempervirens,Chrysolepis_sempervirens,x,,,,NA,,,,Chrysolepis,Nearctic,,,y,retain
 Chrysolepis_chrysophylla,Chrysolepis_chrysophylla,x,,,,NA,,,,Chrysolepis,Nearctic,,,y,retain
 Lithocarpus_cleistocarpus,Lithocarpus_cleistocarpus,x,,,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_cleistocarpus var. cleistocarpus,Lithocarpus_cleistocarpus_var_cleistocarpus,,,#NAME?,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
@@ -71,7 +71,7 @@ Quercus_geminata,Quercus_geminata,x,,,,NA,,,,Quercus_section_Virentes,Nearctic,,
 Quercus_georgiana,Quercus_georgiana,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
 Quercus_gilva,Quercus_gilva,x,,,,NA,,,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,,,y,retain
 Quercus_glabrescens,Quercus_glabrescens,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
-Quercus_glauca,Quercus_glauca,x,,,,NA,,,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,,,y,retain
+Quercus_glauca,Quercus_glauca,,Quercus_glauca,near Q. annulata --- best as sister given sampling we have,Quercus_annulata,2,"unpublished whole-genome reseq data, Lin Lin and Min Deng pers.comm.",,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,,,y,retain
 Quercus_glaucoides,Quercus_glaucoides,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_gracilis,Quercus_ciliaris,x,,,,NA,,http://oaknames.org/search/fullname.asp?id=1999,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,Not in Denk et al. Elsewhere has been treated as a variety of glauca (Quercus glauca f. gracilis Rehder & E.H. Wilson (1916)),,n,delete
 Quercus_griffithi,Quercus_griffithii,x,,,,NA,,,,Quercus_section_Quercus,Eastern Palearctic and Oriental,,,y,retain
@@ -139,18 +139,18 @@ Quercus_robur,Quercus_robur,x,,,,NA,,,,Quercus_section_Quercus,Western Palearcti
 Quercus_rubra,Quercus_rubra,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
 Quercus_rugosa,Quercus_rugosa,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_sadleriana,Quercus_sadleriana,x,,,,NA,,,,Quercus_section_Ponticae,Nearctic,,,y,retain
-Quercus_salicifolia,Quercus_salicifolia,,Quercus_salicifolia,sister to Q. costaricensis,Quercus_costaricensis,2,RAD-seq placement,unpublished red oak data,,Quercus_section_Lobatae,Nearctic,,,y,retain
+Quercus_salicifolia,Quercus_salicifolia,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
 Quercus_salicina,Quercus_salicina,x,,,,NA,,,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,,,y,retain
 Quercus_sapotifolia,Quercus_sapotifolia,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,This species is not needed,DELETE - No associated gallwasps - the correct synonym for the species with gall records named Q. bumelioides is Q. copeyensis,n,delete
 Quercus_serrata,Quercus_serrata,x,,,,NA,,,,Quercus_section_Quercus,Eastern Palearctic and Oriental,,,y,retain
 Quercus_sessilifolia,Quercus_sessilifolia,x,,,,NA,,,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,,,y,retain
 Quercus_shumardii,Quercus_shumardii,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
 Quercus_sinuata,Quercus_sinuata,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
-Quercus_spinosa,Quercus_spinosa,,Quercus_spinosa,sister to clade spanning Q. longispica to Q. senescens,Quercus_longispica|Quercus_senescens,2,RAD-seq placement,Jiang et al. 2019,"somehow missing from Hipp et al. 2020; we could reanalyze to add it in, but welding is thoroughly justified.",Quercus_section_Ilex,Eastern Palearctic and Oriental,,,y,retain
+Quercus_spinosa,Quercus_spinosa,x,,,,NA,,,,Quercus_section_Ilex,Eastern Palearctic and Oriental,,,y,retain
 Quercus_splendens,Quercus_splendens,,Quercus_splendens,base of clade spanning Q. laeta and Q. pedunculairs,Quercus_laeta|Quercus_peduncularis,0,unpublished RAD-seq data; position still uncertain,,,Quercus_section_Quercus,Nearctic,Quercus peduncularis,,y,retain
 Quercus_stellata,Quercus_stellata,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_suber,Quercus_suber,x,,,,NA,,,,Quercus_section_Cerris,Western Palearctic,,,y,retain
-Quercus_tarokoensis,Quercus_tarokoensis,,Quercus_tarokoensis,"section Ilex, sister to Q. setulosa, basal position for section Ilex on the tree",Quercus_monimotricha|Quercus_coccifera,0,"We view this as being unresolved among the Asian section Ilex, so placed at the base of the section; section Ilex fide Denk et al. 2017; though note that le Hardy de Beaulieu and Lamant indicate this is in section Quercus, while Helardot allies it with section Cerris",http://oaks.of.the.world.free.fr/quercus_tarokoensis.htm,,Quercus_section_Ilex,Eastern Palearctic and Oriental,,,y,retain
+Quercus_tarokoensis,Quercus_tarokoensis,x,,,,NA,,,,Quercus_section_Ilex,Eastern Palearctic and Oriental,,,y,retain
 Quercus_texana,Quercus_texana,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,check,retain
 Quercus_tomentella,Quercus_tomentella,x,,,,NA,,,,Quercus_section_Protobalanus,Nearctic,,,y,retain
 Quercus_toumeyi,Quercus_toumeyi,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
@@ -167,7 +167,7 @@ Quercus_wutaishanica,Quercus_wutaishanica,x,Quercus_wutaishanica,sister to Q. mo
 Querus_muehlenbergii,Quercus_muehlenbergii,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,Quercus muehlenbergii,,y,retain
 Quercus_copeyensis,Quercus_copeyensis,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,"there were 7 species from Panama in Frazer’s spreadsheet that in our database were listed as coming from Q. bumelioides. As with the case above for Coffeikokkos copeyensis, the name Q. bumelioides in this case is a synonym for Q. copeyensis.",,y,retain
 Quercus_eduardi,Quercus_eduardi,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
-Quercus_frutex,Quercus_frutex,,Quercus_frutex,sister to clade defined by Q. glaucescens and Q. arizonica,Quercus_glaucescens|Quercus_arizonica,2,RAD-seq data (unpublished; presented for IOS 2022),,There is uncertainty in the resolution of three clades in the Mesoamerican oaks: Q. glaucescens|Q. resinosa; Q. rugosa|Q. ajoensis; and Q. arizonica|Q. peduncularis. We are placing Q. frutex sister to the MRCA of all three of these clades.,Quercus_section_Quercus,Nearctic,,,y,retain
+Quercus_frutex,Quercus_frutex,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_insignis,Quercus_insignis,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_lancifolia,Quercus_lancifolia,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_ilex,Quercus_ilex,x,,,,NA,,,,,,,,y,retain
