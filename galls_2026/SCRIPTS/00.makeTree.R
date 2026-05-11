@@ -27,11 +27,11 @@ dat.nodes <- dat[which(!is.na(dat$tip) & dat$comments_ar == 'retain'), ]
 
 # make tree
 tr.graham <- simplePhylo(
-  tips = dat$trName,
+  tips = dat$trName[dat$comments_ar == 'retain'],
   tr = tr.gardner,
   nodes = dat.nodes, 
-  prune = F
-)
+  prune = T
+) |> ladderize()
 
 # write results
 write.tree(tr.graham, paste('galls_2026/OUT/tr.graham_', now, '.tre', sep = ''))

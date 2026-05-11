@@ -128,7 +128,7 @@ Quercus_petraea,Quercus_petraea,x,,,,NA,,,,Quercus_section_Quercus,Western Palea
 Quercus_phellos,Quercus_phellos,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
 Quercus_polymorpha,Quercus_polymorpha,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_pontica,Quercus_pontica,x,,,,NA,,,,Quercus_section_Ponticae,Western Palearctic,,,y,retain
-Quercus_potosina,Quercus_potosina,,Quercus_potosina,sister to Q. obtusata,Quercus_obtusata,2,based on Hipp et al. 2020,,,Quercus_section_Quercus,Nearctic,,,y,retain
+Quercus_potosina,Quercus_potosina,,DELETING DUE TO TAXONOMIC UNCERTAINTY,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,delete
 Quercus_prinoides,Quercus_prinoides,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_pubescens,Quercus_pubescens,x,,,,NA,,,,Quercus_section_Quercus,Western Palearctic,,,y,retain
 Quercus_pumila,Quercus_elliottii,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,check,retain
