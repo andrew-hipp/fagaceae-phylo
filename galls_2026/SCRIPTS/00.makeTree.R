@@ -1,11 +1,11 @@
 library(ape)
 library(phytools)
 library(magrittr)
-library(openxlsx)
+# library(openxlsx)
 source('https://raw.githubusercontent.com/andrew-hipp/morton/master/R/simplePhylo.R')
 
-# set working directory
-if(!endsWith(tolower(getwd()), 'fagaceae-phylo')) stop('launch this within fagaceae-phylo root directory')
+# # set working directory
+# if(!endsWith(tolower(getwd()), 'fagaceae-phylo')) stop('launch this within fagaceae-phylo root directory')
 
 # set variables:
 now <- format(Sys.time(), "%y%m%d_%Hh%M")
@@ -21,8 +21,9 @@ tr.gardner <- drop.tip(tr.gardner, c(
 
 tr.gardner$tip.label <- strsplit(tr.gardner$tip.label, '|', fixed = T) |> sapply(FUN = '[', 1)
 
-dat <- read.xlsx('galls_2026/DATA/Cynipini_host_oaks_2026-05-06.xlsx',1)
-dat.nodes <- dat[which(!is.na(dat$tip)), ]
+dat <- read.csv('galls_2026/DATA/Cynipini_host_oaks_2026-05-06_AR.csv')
+dat$tip[dat$tip == ''] <- NA
+dat.nodes <- dat[which(!is.na(dat$tip) & dat$comments_ar == 'retain'), ]
 
 # make tree
 tr.graham <- simplePhylo(
