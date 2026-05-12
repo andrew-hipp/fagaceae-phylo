@@ -1,5 +1,7 @@
 # fagaceae-phylo
 
+[![DOI](https://zenodo.org/badge/546717251.svg)](https://doi.org/10.5281/zenodo.20141954)
+
 Spliced phylogenies of Fagaceae (oaks, beeches, chestnuts), built in R for downstream use in host-association and comparative studies. The repository contains independent subprojects organized by year; each is self-contained under its own directory.
 
 Scripts by Andrew Hipp (ahipp@mortonarb.org). Phylogenies by Althaus / Hipp et al. (2026) (_Quercus_), and Elliot Gardner (exg258@case.edu) and Kasey Pham (kxp574@case.edu) (Fagaceae).
