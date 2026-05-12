@@ -16,14 +16,14 @@ Chrysolepis_chrysophylla,Chrysolepis_chrysophylla,x,,,,NA,,,,Chrysolepis,Nearcti
 Lithocarpus_cleistocarpus,Lithocarpus_cleistocarpus,x,,,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_cleistocarpus var. cleistocarpus,Lithocarpus_cleistocarpus_var_cleistocarpus,,,#NAME?,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_cleistocarpus var. omeiensis,Lithocarpus_cleistocarpus_var_omeiensis,,Lithocarpus_cleistocarpus_var_omeiensis,sister to C. cleistocarpus,Lithocarpus_cleistocarpus,2,variety,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
-Lithocarpus_corneus,Lithocarpus_corneus,,Lithocarpus_corneus,sister to L. areca,Lithocarpus_areca,2,"based on ITS, and although L. areca was not in Paul's CRABS-CLAW dataset, the position generally toward the outside of the phylogeny is consistent with that paper .. there it was sister to pachylepis, which in ours is the next step in the grade",,"EG, pers.comm 2022-12-07",Lithocarpus,Eastern Palearctic and Oriental,,,y,retain
+Lithocarpus_corneus,Lithocarpus_corneus,x,,,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,y,retain
 Lithocarpus_dealbatus,Lithocarpus_dealbatus,x,,,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_hancei,Lithocarpus_hancei,x,,,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_harlandi,Lithocarpus_harlandi,,Lithocarpus_harlandi,sister to iteaphyllus,Lithocarpus_iteaphyllus,2,"Present in genbank with matK, which wasn't informative (short ITS sequence was nonsense), but generally in the hancei/iteaphyllus clade make sense and is consistent with Yang et al and geography.",,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_konishii,Lithocarpus_konishii,,Lithocarpus_konishii,sister to areca+corneus,Lithocarpus_areca|Lithocarpus_corneus,2,"Yang et al. has it sister to corneus without areca sampled, and there are no areca samples on Genbank ...But since konishii is in Taiwan and the other two are both in Indochina, I'm pretty comfortable with making it sister for now.",Yang et al. (https://as-botanicalstudies.springeropen.com/articles/10.1186/s40529-018-0244-8) ,"EG, 2022-12-07: I could try assembling the atpB spacer from my areca sample, but I don't think I will be able to do it before I return.",Lithocarpus,Eastern Palearctic and Oriental,,,y,retain
 Lithocarpus_litseifolius var. litseifolius,Lithocarpus_litseifolius,x,,,,NA,,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Lithocarpus_oblanceolatus,Lithocarpus_oblanceolatus,,Lithocarpus_oblanceolatus,sister to hancei,Lithocarpus_hancei,2,segregated from L. hancei,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
-Lithocarpus_brevicaudatus,Lithocarpus_brevicaudatus,,Lithocarpus_brevicaudatus,sister to L magalophyllus; these two sister to hancei + oblanceolatus,Lithocarpus_hancei|Lithocarpus_oblanceolatus,4,genbank ITS,,,Lithocarpus,Eastern Palearctic and Oriental,,,y,retain
+Lithocarpus_brevicaudatus,Lithocarpus_brevicaudatus,,Lithocarpus_brevicaudatus,sister to L magalophyllus; these two sister to hancei + oblanceolatus,Lithocarpus_hancei|Lithocarpus_calophyllus,2,genbank ITS,,,Lithocarpus,Eastern Palearctic and Oriental,,,y,retain
 Lithocarpus_megalophyllus,Lithocarpus_megalophyllus,,Lithocarpus_megalophyllus,sister to L brevicaudatus; these two sister to hancei + oblanceolatus,Lithocarpus_brevicaudatus,2,genbank ITS,,,Lithocarpus,Eastern Palearctic and Oriental,,,n,delete
 Notholithocarpus_densiflorus,Notholithocarpus_densiflorus,x,,,,NA,,,,Notholithocarpus ,Nearctic,,,y,retain
 Quercus_acutifolia,Quercus_acutifolia,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
@@ -64,7 +64,7 @@ Quercus_faginea,Quercus_faginea,x,,,,NA,,,,Quercus_section_Quercus,Western Palea
 Quercus_falcata,Quercus_falcata,x,,,,NA,,,,Quercus_section_Lobatae,Nearctic,,,y,retain
 Quercus_frainetto,Quercus_frainetto,x,,,,NA,,,,Quercus_section_Quercus,Western Palearctic,,,y,retain
 Quercus_fusiformis,Quercus_fusiformis,x,,,,NA,,,,Quercus_section_Virentes,Nearctic,,,y,retain
-Quercus_gambelii,Quercus_gambelii,,Quercus_gambelii,sister to Q. lobata,Quercus_lobata,2,RAD-seq placement,McVay et al. 2017,,Quercus_section_Quercus,Nearctic,,,y,retain
+Quercus_gambelii,Quercus_gambelii,,Quercus_gambelii,sister to Q. lobata,Quercus_lobata,4,RAD-seq placement,McVay et al. 2017,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_gambleana,Quercus_gambleana,,Quercus_gambleana,sister to Q. oxyodon,Quercus_oxyodon,2,considered a synonym of Q. oxyodon,,,Quercus_subgenus_Cyclobalanopsis,Eastern Palearctic and Oriental,Not in Denk et al. Considered valid elsewhere (worldfloraonline.org; oaknames.org),,n,delete
 Quercus_garryana,Quercus_garryana,x,,,,NA,,,,Quercus_section_Quercus,Nearctic,,,y,retain
 Quercus_geminata,Quercus_geminata,x,,,,NA,,,,Quercus_section_Virentes,Nearctic,,,y,retain
