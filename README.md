@@ -69,3 +69,5 @@ The RADseq *Quercus* phylogeny used in `galls_2026/` was first published in:
 See [LICENSE](LICENSE).
 
 ## Authorship
+
+This README file was written by Claude Code (claude.ai/code) interactively with Andrew Hipp, 2026-05-12.
