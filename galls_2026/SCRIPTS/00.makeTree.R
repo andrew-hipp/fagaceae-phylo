@@ -17,7 +17,9 @@ tr.gardner <- read.tree('galls_2026/DATA/fagaceae_graft_noconf_apr30_prune.tre')
 tr.gardner <- drop.tip(tr.gardner, c(
   'Quercus_salicifolia|QUE002791', 
   'Quercus_pringlei|QUE004078',
-  'Quercus_rehderiana|QUE001495'))
+  'Quercus_rehderiana|QUE001495',
+  'Quercus_mongolica_var._grosseserrata|QUE002913'
+  ))
 
 tr.gardner$tip.label <- strsplit(tr.gardner$tip.label, '|', fixed = T) |> sapply(FUN = '[', 1)
 
