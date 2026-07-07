@@ -4,7 +4,21 @@
 
 Spliced phylogenies of Fagaceae (oaks, beeches, chestnuts), built in R for downstream use in host-association and comparative studies. The repository contains independent subprojects organized by year; each is self-contained under its own directory.
 
-Scripts by Andrew Hipp (ahipp@mortonarb.org). Phylogenies by Althaus / Hipp et al. (2026) (_Quercus_), and Elliot Gardner (exg258@case.edu) and Kasey Pham (kxp574@case.edu) (Fagaceae).
+## Authors
+Scripts by Andrew Hipp (ahipp@mortonarb.org). Phylogenies by Althaus / Hipp et al. (2026) (_Quercus_), and Elliot Gardner (exg258@case.edu) and Kasey Pham (kxp574@case.edu) (Fagaceae).  
+The Hyb-Seq phylogeny has not previously been published. Authorship for that phylogeny:
+- Elliot M. Gardner
+- Mira Garner
+- Marlene Hahn
+- Lindsey Worcester
+- Joan Pereira
+- Deby Arifiani
+- Sahromi
+- M. Socorro González-Elizondo
+- Tiange Lang
+- Chuck Cannon
+- Paul S. Manos
+- Andrew L. Hipp
 
 ## Subprojects
 
