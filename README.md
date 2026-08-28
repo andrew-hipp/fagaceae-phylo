@@ -32,7 +32,7 @@ Phylogenies for cynipid gall-wasp host-oak associations. Mature and operational,
 - The authoritative host-oak spreadsheet lives on Google Drive (see `DATA/ACTIVE.VERSION.OF.EXCEL.ON.GOGGLE.DRIVE.txt`); the local copy is a snapshot.
 
 ### `galls_2026/`
-Updated Fagaceae phylogenetics combining HybSeq and resequencing data (Gardner/Zhou datasets) with the RADseq *Quercus* phylogeny from Althaus et al. (2026) welded in. Work in progress.
+Updated Fagaceae phylogenetics combining HybSeq and resequencing data (Gardner/Zhou datasets) with the RADseq *Quercus* phylogeny from Althaus et al. (2026) welded in. This is the version used for published gall wasp analyses with Graham Stone's research group.
 
 - **Trees:** `fagaceae_graft_noconf_apr30_prune.tre` — Fagaceae backbone with broad sampling across *Quercus*, *Lithocarpus*, *Castanopsis*, *Castanea*, *Fagus*, and *Nothofagus*.
 - **Metadata:** `fagaceae_gardner_zhou_info_2026may04.csv` (HybSeq + Zhou specimens) and `Quercus_Hipp-et-al_metadata_2026-05-05.xlsx` (RADseq *Quercus* specimens).
@@ -87,4 +87,4 @@ See [LICENSE](LICENSE).
 
 ## Authorship
 
-This README file was written by Claude Code (claude.ai/code) interactively with Andrew Hipp, 2026-05-12.
+This README file was written by Claude Code (claude.ai/code) interactively with Andrew Hipp, 2026-05-12; AH update 2026-08-07.
