@@ -1,0 +1,36 @@
+"","originalName","spectralPhyloName","MissingTip","Notes","trouble"
+"7","Quercus_martinezii",NA,"Quercus_martinezzi","Spelling variant. Quercus martinezii, which we should have in phylo. My memory is that some of these may not have sequenced as well as other samples, so potential that it could have been dropped.",TRUE
+"38","Quercus_rehderiana","Quercus_pseudosemecarpifolia",NA,"Sample OAK-MOR-977  Quercus pseudosemecarpifolia|=Q. rehderiana Hand.-Mazz. By Guido Grimm",TRUE
+"41","Quercus_yunnanensis","Quercus_malacotricha",NA,"syn to Quercus dentata subsp. yunnanensis (plant of the world online) or Q. yunnanensis. (DM41 is current det is Q. yunnanensis.)",TRUE
+"76","Quercus_durandii","Quercus_sinuata",NA,NA,TRUE
+"82","Quercus_crassifolia__Qmcvaughii","Quercus_mcvaughii",NA,NA,TRUE
+"99","Quercus_petraea_ssp._iberica","Quercus_polycarpa",NA,"We have a sample (OAK-MOR-351) that originally was in the arboretum collections as Q. polycarpa but that was syn to Q. petraea ssp. Iberica. ",TRUE
+"116","Quercus_aurea","Quercus_dalechampii",NA,"Allen Coombes det: Q. aurea = Q. dalechampii",TRUE
+"134","Quercus_margaretta","Quercus_margarettae",NA,"spelling variant",TRUE
+"217","Quercus_pumila","Quercus_elliottii","Quercus_elliotti","syn Q. pumila Walt. (Oaks of the World 2026- -- ""The name Q.elliottii has been given to Q.pumila by Wilbur in 2002 under the pretext that the latin diagnosis made by Walter in 1788 was not complete, but the neotype choosen by Wilbur is actually a hybrid between Q.falcata and Q.phellos."") Also note there's some homonyms of Q. pumila too. We have several and in my database they've gone from Q. pumila to Q. elliotii and then back to Q. pumila since we started the rad-seq project. Q. ellioti is a spelling variant.",TRUE
+"221","Quercus_gentryi","Quercus_confertifolia",NA,"Oaks of the world has Q. gentryi as syn to this. We have several Q. gentryi samples.",TRUE
+"224","Quercus_peduncularis","Quercus_splendens",NA,"Oaks of the world/Plants of the World  has Q. splendens Nee as syn to Q. peduncularis, which we do have samples of.",TRUE
+"231","Quercus_liebmannii",NA,"Quercus_liebmanii","Spelling variant. Q. liebmannii which we have in phylo",TRUE
+"239","Quercus_acutifolia","Quercus_conspersa",NA,"Q. conspersa syn to Q. acutifolia (which we have in the phylogeny)",TRUE
+"248","Quercus_parvula_var._parvula","Quercus_parvula",NA,NA,TRUE
+"294","Quercus_greggii__Q_alpescens",NA,"Quercus_alpescens",NA,TRUE
+"295","Quercus_cf._miquihuanensis-_autopista",NA,"Quercus_autopista",NA,TRUE
+"304",NA,NA,"Fagus_grandifolia","Do Not have",TRUE
+"305",NA,NA,"Quercus_acherdophylla","Do Not have",TRUE
+"306",NA,NA,"Quercus_carmenensis","Removed- we're unsure what our samples really are.",TRUE
+"307",NA,NA,"Quercus_crispula","? Isn't this in the tree? I'm not seeing it in the above choices...Oaks of the world have this as syn to Q. Mongolica subsp crispula. SYST-MOR-0006366.wRE is currented determined as Q. mongolica var. grosserserrata. Oaks of the world has that also as syn to Q. mongolica subsp. Crispula. So  if we agree with the above statements, then we have this sequenced. ",TRUE
+"308",NA,NA,"Quercus_deliquescens","Do not have",TRUE
+"309",NA,NA,"Quercus_depressa","Do Not have",TRUE
+"310",NA,NA,"Quercus_diversifolia","Our one sample of this had a det change on the voucher to Q. laeta, so isn't in this tree.",TRUE
+"311",NA,NA,"Quercus_dysophylla","Do not have. Quercus x dysophylla (Q. crassifolia x crassipes)",TRUE
+"312",NA,NA,"Quercus_gambelii","Can weld onto phylogeny",TRUE
+"313",NA,NA,"Quercus_gambelli","Spelling variant.",TRUE
+"314",NA,NA,"Quercus_glauca","Do not have Q. glauca Thunb. (We have something labeled as Q. glauca but it's falling in roburoids and not cyclobalanopsis and was removed. My memory is that there's a homonym issue with Q. glauca. Also to note Oaks of the World website says for some authors Q. annulata is conspecific with Q. glauca Thunb. We do have a Q. annulata in the phylogeny.",TRUE
+"315",NA,NA,"Quercus_hintoniorum","Do not have",TRUE
+"316",NA,NA,"Quercus_hirtifolia","Do not have",TRUE
+"317",NA,NA,"Quercus_ocoteifolia","No, our one sample sometimes places strangely. Removed from phylogeny",TRUE
+"318",NA,NA,"Quercus_perpallida","Do not have.",TRUE
+"319",NA,NA,"Quercus_saltillensis","Do not have.",TRUE
+"320",NA,NA,"Quercus_stenophylloides","Do not have",TRUE
+"321",NA,NA,"Quercus_tatakaensis","Do not have",TRUE
+"322",NA,NA,"Quercus_wutaishanica","Do not have",TRUE
