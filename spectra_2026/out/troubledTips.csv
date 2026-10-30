@@ -13,8 +13,8 @@
 "231","Quercus_liebmannii",NA,"Quercus_liebmanii","Spelling variant. Q. liebmannii which we have in phylo",TRUE
 "239","Quercus_acutifolia","Quercus_conspersa",NA,"Q. conspersa syn to Q. acutifolia (which we have in the phylogeny)",TRUE
 "248","Quercus_parvula_var._parvula","Quercus_parvula",NA,NA,TRUE
-"294","Quercus_greggii__Q_alpescens",NA,"Quercus_alpescens",NA,TRUE
-"295","Quercus_cf._miquihuanensis-_autopista",NA,"Quercus_autopista",NA,TRUE
+"294","Quercus_greggii__Q_alpescens","Quercus_alpescens",NA,NA,TRUE
+"295","Quercus_cf._miquihuanensis-_autopista","Quercus_autopista",NA,NA,TRUE
 "304",NA,NA,"Fagus_grandifolia","Do Not have",TRUE
 "305",NA,NA,"Quercus_acherdophylla","Do Not have",TRUE
 "306",NA,NA,"Quercus_carmenensis","Removed- we're unsure what our samples really are.",TRUE
