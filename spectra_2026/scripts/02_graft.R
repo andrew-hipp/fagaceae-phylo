@@ -2,10 +2,12 @@ library(openxlsx)
 library(ape)
 source('https://raw.githubusercontent.com/andrew-hipp/morton/master/R/simplePhylo.R')
 
-tr.relabelled <- read.tree(
-  dir('spectra_2026/out/', patt = '01.relabelled', full = T)
-)
+trFile <- dir('spectra_2026/out/', patt = '01.relabelled', full = T)
+if(length(trFile) != 1) stop("** make sure there is only one 01.relabelled tree in the out folder, then rerun **")
+tr.relabelled <- read.tree(trFile)
+
 dat_weld <- read.xlsx('spectra_2026/data/weldingMatrix_2026-11-03.xlsx') 
+dat_spectra <- read.xlsx('spectra_2026/data/Species.names_fresh_dry.xlsx', sheet = 'combined')
 
 now <- format(Sys.time(), "%Y-%m-%d")
 
