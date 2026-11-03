@@ -24,13 +24,16 @@ tr$tip.label[match(names(tips.replaceEm), tr$tip.label)] <-
 
 ## THEN SPLICE IN THE OTHERS
 
-missing <- setdiff(dat_spectra$sciname_simple, tr$tip.label)
+## THEN PRUNE TO JUST WHAT'S THERE, REPORT AND WRITE
+tr.pruned <- keep.tip(tr, intersect(tr$tip.label, dat_spectra$sciname_simple))
 
-
+missing <- setdiff(dat_spectra$sciname_simple, tr.pruned$tip.label)
 writeLines(missing, 'spectra_2026/out/missing.tips.txt')
 
-tr.pruned <- keep.tip(tr, intersect(tr$tip.label, dat$sciname_simple))
-
+write.tree(
+    tr,
+    'spectra_2026/out/01.relabelled.tre'
+)
 write.tree(
     tr.pruned,
-    'spectra_2026/out/prunedTree.tre')
+    'spectra_2026/out/02.relab_pruned.tre')

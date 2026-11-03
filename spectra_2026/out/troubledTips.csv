@@ -1,5 +1,5 @@
 "","originalName","spectralPhyloName","MissingTip","Notes","trouble"
-"7","Quercus_martinezii",NA,"Quercus_martinezzi","Spelling variant. Quercus martinezii, which we should have in phylo. My memory is that some of these may not have sequenced as well as other samples, so potential that it could have been dropped.",TRUE
+"7","Quercus_martinezii",NA,"Quercus_martinezzi","FIXED IN SPECTRAL DATA SHEET: Spelling variant. Quercus martinezii, which we should have in phylo. My memory is that some of these may not have sequenced as well as other samples, so potential that it could have been dropped.",TRUE
 "38","Quercus_rehderiana","Quercus_pseudosemecarpifolia",NA,"Sample OAK-MOR-977  Quercus pseudosemecarpifolia|=Q. rehderiana Hand.-Mazz. By Guido Grimm",TRUE
 "41","Quercus_yunnanensis","Quercus_malacotricha",NA,"syn to Quercus dentata subsp. yunnanensis (plant of the world online) or Q. yunnanensis. (DM41 is current det is Q. yunnanensis.)",TRUE
 "76","Quercus_durandii","Quercus_sinuata",NA,NA,TRUE
@@ -17,14 +17,14 @@
 "295","Quercus_cf._miquihuanensis-_autopista","Quercus_autopista",NA,NA,TRUE
 "304",NA,NA,"Fagus_grandifolia","Do Not have",TRUE
 "305",NA,NA,"Quercus_acherdophylla","Do Not have",TRUE
-"306",NA,NA,"Quercus_carmenensis","Removed- we're unsure what our samples really are.",TRUE
-"307",NA,NA,"Quercus_crispula","? Isn't this in the tree? I'm not seeing it in the above choices...Oaks of the world have this as syn to Q. Mongolica subsp crispula. SYST-MOR-0006366.wRE is currented determined as Q. mongolica var. grosserserrata. Oaks of the world has that also as syn to Q. mongolica subsp. Crispula. So  if we agree with the above statements, then we have this sequenced. ",TRUE
+"306",NA,NA,"Quercus_carmenensis","NO ADDITION. Removed- we're unsure what our samples really are.",TRUE
+"307","Quercus_mongolica_var._grosseserrata","Quercus_crispula","Quercus_crispula","? Isn't this in the tree? I'm not seeing it in the above choices...Oaks of the world have this as syn to Q. Mongolica subsp crispula. SYST-MOR-0006366.wRE is currented determined as Q. mongolica var. grosserserrata. Oaks of the world has that also as syn to Q. mongolica subsp. Crispula. So  if we agree with the above statements, then we have this sequenced. ",TRUE
 "308",NA,NA,"Quercus_deliquescens","Do not have",TRUE
 "309",NA,NA,"Quercus_depressa","Do Not have",TRUE
 "310",NA,NA,"Quercus_diversifolia","Our one sample of this had a det change on the voucher to Q. laeta, so isn't in this tree.",TRUE
 "311",NA,NA,"Quercus_dysophylla","Do not have. Quercus x dysophylla (Q. crassifolia x crassipes)",TRUE
-"312",NA,NA,"Quercus_gambelii","Can weld onto phylogeny",TRUE
-"313",NA,NA,"Quercus_gambelli","Spelling variant.",TRUE
+"312",NA,NA,"Quercus_gambelii","NO ADDITION. Can weld onto phylogeny",TRUE
+"313",NA,NA,"Quercus_gambelli","NO ADDITION. Spelling variant.",TRUE
 "314",NA,NA,"Quercus_glauca","Do not have Q. glauca Thunb. (We have something labeled as Q. glauca but it's falling in roburoids and not cyclobalanopsis and was removed. My memory is that there's a homonym issue with Q. glauca. Also to note Oaks of the World website says for some authors Q. annulata is conspecific with Q. glauca Thunb. We do have a Q. annulata in the phylogeny.",TRUE
 "315",NA,NA,"Quercus_hintoniorum","Do not have",TRUE
 "316",NA,NA,"Quercus_hirtifolia","Do not have",TRUE
