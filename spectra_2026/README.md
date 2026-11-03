@@ -1,6 +1,6 @@
 # spectra_2026
 
-> **Authorship note:** This README was drafted by Claude (Anthropic's Claude Opus 5.5, via Claude Code) in an interactive session with Andrew Hipp on 2026-11-03. Claude wrote it by reading the scripts, data files, and outputs in this folder. Andrew Hipp reviewed and edited it on 2026-11-03 at 14:17 CST, adding the data provenance and resolving the open TODOs; Claude then updated it to match the revised scripts. After Andrew Hipp fixed `02_graft.R` and re-ran both scripts, Claude checked this README against the scripts and the regenerated outputs on 2026-11-03 at 14:21 CST.
+> **Authorship note:** _This README was drafted by Claude (Anthropic's Claude Opus 5.5, via Claude Code) in an interactive session with Andrew Hipp on 2026-11-03. Claude wrote it by reading the scripts, data files, and outputs in this folder. Andrew Hipp reviewed and edited it on 2026-11-03 at 14:17 CST, adding the data provenance and resolving the open TODOs; Claude then updated it to match the revised scripts. After Andrew Hipp fixed `02_graft.R` and re-ran both scripts, Claude checked this README against the scripts and the regenerated outputs on 2026-11-03 at 14:21 CST. All scripts are by Andrew (ahipp@mortonarb.org)_
 
 ## Purpose
 
