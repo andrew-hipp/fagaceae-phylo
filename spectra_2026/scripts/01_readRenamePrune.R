@@ -1,6 +1,8 @@
 library(ape)
 library(openxlsx)
 
+now <- format(Sys.time(), "%Y-%m-%d")
+
 tr <- read.nexus('spectra_2026/data/20261007_OakSingleTip20260921_fixedtree_standard_p04_beastfile_resampled_50000_annotated_fulllabels.tre')
 tr$tip.label <- strsplit(tr$tip.label, '|', fixed = T) |> 
     sapply(FUN = '[', 1)
@@ -13,7 +15,7 @@ dat_tips$trouble <-
     apply(MARGIN = 1, FUN = all) |> 
     xor(y = TRUE) 
 
-write.csv(dat_tips[which(dat_tips$trouble), ], 'spectra_2026/out/troubledTips.csv')
+write.csv(dat_tips[which(dat_tips$trouble), ], paste('spectra_2026/out/troubledTips', now, 'csv', sep = '.'))
 tips.replaceEm <- dat_tips[which(!is.na(dat_tips$spectralPhyloName)), 2]
 names(tips.replaceEm) <- dat_tips[which(!is.na(dat_tips$spectralPhyloName)), 1]
 
@@ -22,18 +24,7 @@ if(any(!names(tips.replaceEm) %in% tr$tip.label)) warning('** some replacement t
 tr$tip.label[match(names(tips.replaceEm), tr$tip.label)] <-
     as.character(tips.replaceEm)
 
-## THEN SPLICE IN THE OTHERS
-
-## THEN PRUNE TO JUST WHAT'S THERE, REPORT AND WRITE
-tr.pruned <- keep.tip(tr, intersect(tr$tip.label, dat_spectra$sciname_simple))
-
-missing <- setdiff(dat_spectra$sciname_simple, tr.pruned$tip.label)
-writeLines(missing, 'spectra_2026/out/missing.tips.txt')
-
 write.tree(
     tr,
-    'spectra_2026/out/01.relabelled.tre'
+    paste('spectra_2026/out/01.relabelled', now, 'tre', sep = '.')
 )
-write.tree(
-    tr.pruned,
-    'spectra_2026/out/02.relab_pruned.tre')

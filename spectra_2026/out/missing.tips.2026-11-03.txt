@@ -9,7 +9,6 @@ Quercus_dysophylla
 Quercus_elliotti
 Quercus_gambelii
 Quercus_gambelli
-Quercus_glauca
 Quercus_hintoniorum
 Quercus_hirtifolia
 Quercus_liebmanii
@@ -19,4 +18,3 @@ Quercus_perpallida
 Quercus_saltillensis
 Quercus_stenophylloides
 Quercus_tatakaensis
-Quercus_wutaishanica
